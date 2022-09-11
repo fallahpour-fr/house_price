@@ -4,6 +4,7 @@ For this project, we have prepared the information of almost 4000 apartments in 
 
 ## Model that used
 
+* clean data with pandas and numpy
 * Linear Regression Model 
 * Lasso Model Library
 * GridSearchCV Model selection
@@ -11,5 +12,7 @@ For this project, we have prepared the information of almost 4000 apartments in 
 
 ## Library and pakage that used
 
+* Pandas
+* Numpy
 * Scikit-learn (Sklearn)
 * Matplotlib
